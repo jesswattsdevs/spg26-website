@@ -1,0 +1,6 @@
+id,firstname,lastname,email,phone,level,php,sql,htmlcss,pw
+2,jess,watts,admin@ggc.edu,111-111-1235,"Admin User",0,0,0,admin
+4,jess,watts,j@ggc.edu,111-111-1235,C,0,0,0,123
+6,mark,yall,test@ggc.edu,111-222-1270,Senior,0,0,0,$2y$10$CFQqmpa3z.Z2BQz9w1GLQOdMRPcGja3G4zUDzrMO/FuBRT8kd2/Xq
+5,mel,mel,mel@ggc.edu,111-222-1290,Sophomore,0,0,0,$2y$10$BkGLqvgalYgiLrEt9tfgEus4xq7apzOK.FkC5SzSzQVknQZ8dnjqK
+1,sandy,parks,sandy@ggc.edu,111-111-1238,C,100,67,67,1234
